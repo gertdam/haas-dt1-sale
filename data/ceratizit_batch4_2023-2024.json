@@ -1,0 +1,252 @@
+{
+  "invoices": [
+    {
+      "invoiceNumber": "194203103",
+      "date": "2023-07-20",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "5294295000",
+          "description": "N.SA.0,5.30°.Z2.HA.K1,5",
+          "quantity": 2,
+          "unitPrice": 26.89,
+          "lineTotal": 46.79,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5294202000",
+          "description": "N.SA.2,0.30°.Z2.HA.K4,0",
+          "quantity": 1,
+          "unitPrice": 35.58,
+          "lineTotal": 30.95,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 100.72
+    },
+    {
+      "invoiceNumber": "194204085",
+      "date": "2023-08-05",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22010050",
+          "description": "ST.M5.ISO2X-6HX.DIN352-C",
+          "quantity": 2,
+          "unitPrice": 61.81,
+          "lineTotal": 86.53,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 111.36
+    },
+    {
+      "invoiceNumber": "194204244",
+      "date": "2023-08-09",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22010050",
+          "description": "ST.M5.ISO2X-6HX.DIN352-C",
+          "quantity": 2,
+          "unitPrice": 61.81,
+          "lineTotal": 86.53,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 104.7
+    },
+    {
+      "invoiceNumber": "194205111",
+      "date": "2023-08-26",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "5357916200",
+          "description": "WR.H-SR.16,0.40°.Z3.HB.L DLC",
+          "quantity": 2,
+          "unitPrice": 214.69,
+          "lineTotal": 373.56,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 458.66
+    },
+    {
+      "invoiceNumber": "194215471",
+      "date": "2024-01-26",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "10124026",
+          "description": "VX.2,60.R.5D.~DIN338/1835A TIN",
+          "quantity": 3,
+          "unitPrice": 15.89,
+          "lineTotal": 38.14,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 52.8
+    },
+    {
+      "invoiceNumber": "194227986",
+      "date": "2024-07-25",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "50941120",
+          "description": "N.EF.12,0.90°.Z4.HB.73",
+          "quantity": 1,
+          "unitPrice": 85.74,
+          "lineTotal": 51.44,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "50805053",
+          "description": "POLYGON.6.HB.12.30,0.80,0.IK HM",
+          "quantity": 1,
+          "unitPrice": 303.7,
+          "lineTotal": 273.33,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "50882292",
+          "description": "POLYGON.6.M1-3.11,7.60°.I/E.Z3 TI500",
+          "quantity": 1,
+          "unitPrice": 62.15,
+          "lineTotal": 55.93,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 467.3
+    },
+    {
+      "invoiceNumber": "194229433",
+      "date": "2024-08-23",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22082040",
+          "description": "ST.M4.ISO2-6H.DIN371-C",
+          "quantity": 1,
+          "unitPrice": 34.17,
+          "lineTotal": 23.92,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 35.6
+    },
+    {
+      "invoiceNumber": "194230672",
+      "date": "2024-09-11",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "5056112000",
+          "description": "SL.N.EF.12,0.90°.Z5.HB.70 DPB72S",
+          "quantity": 2,
+          "unitPrice": 107.3,
+          "lineTotal": 186.7,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5056106000",
+          "description": "SL.N.EF.6,0.90°.Z5.HB.55 DPB72S",
+          "quantity": 1,
+          "unitPrice": 54.22,
+          "lineTotal": 47.17,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "22082040",
+          "description": "ST.M4.ISO2-6H.DIN371-C",
+          "quantity": 1,
+          "unitPrice": 34.17,
+          "lineTotal": 23.92,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 318.58
+    },
+    {
+      "invoiceNumber": "194231566",
+      "date": "2024-09-25",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "10124085",
+          "description": "VX.8,50.R.5D.~DIN338/1835A TIN",
+          "quantity": 2,
+          "unitPrice": 49.33,
+          "lineTotal": 78.93,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124051",
+          "description": "VX.5,10.R.5D.~DIN338/1835A TIN",
+          "quantity": 1,
+          "unitPrice": 29.1,
+          "lineTotal": 23.28,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10122091",
+          "description": "VX.9,10.R.3D.~DIN1897/1835A TIN",
+          "quantity": 1,
+          "unitPrice": 56.43,
+          "lineTotal": 45.14,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124067",
+          "description": "VX.6,70.R.5D.~DIN338/1835A TIN",
+          "quantity": 1,
+          "unitPrice": 40.03,
+          "lineTotal": 32.02,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10122030",
+          "description": "VX.3,00.R.3D.~DIN1897/1835A TIN",
+          "quantity": 1,
+          "unitPrice": 13.92,
+          "lineTotal": 11.14,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10122111",
+          "description": "VX.11,10.R.3D.~DIN1897/1835A TIN",
+          "quantity": 1,
+          "unitPrice": 53.84,
+          "lineTotal": 43.07,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5371106203",
+          "description": "W.SA.6,0.45°/7°.Z3.R0,3.HB.L16 DLC",
+          "quantity": 1,
+          "unitPrice": 58.75,
+          "lineTotal": 51.11,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5357910200",
+          "description": "WR.H-SR.10,0.40°.Z3.HB.L DLC",
+          "quantity": 1,
+          "unitPrice": 89.38,
+          "lineTotal": 77.76,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "53523080",
+          "description": "W.SA.8,0.45°.Z3.HA.ML DLC",
+          "quantity": 1,
+          "unitPrice": 71.13,
+          "lineTotal": 61.88,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 520.09
+    }
+  ]
+}

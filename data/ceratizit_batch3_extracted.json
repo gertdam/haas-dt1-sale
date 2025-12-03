@@ -1,0 +1,491 @@
+{
+  "invoices": [
+    {
+      "invoiceNumber": "194181276",
+      "date": "2022-10-01",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22040100",
+          "description": "SALOREX VA.M10.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 52.67,
+          "lineTotal": 105.34,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 110.84
+    },
+    {
+      "invoiceNumber": "194182033",
+      "date": "2022-10-11",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "83528312",
+          "description": "MAS-BT-A30.GSF.M3-M12.63 SNELWISSEL TAPOPNAME",
+          "quantity": 1,
+          "unitPrice": 213.27,
+          "lineTotal": 213.27,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124025",
+          "description": "VX.2,50.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 11.57,
+          "lineTotal": 23.15,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124040",
+          "description": "VX.4,00.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 13.65,
+          "lineTotal": 27.31,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "22040030",
+          "description": "SALOREX VA.M3.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 35.01,
+          "lineTotal": 70.01,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5360705200",
+          "description": "W.RD.5,0.f8.45°.Z2.HA.L VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 42.38,
+          "lineTotal": 42.38,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "50900404",
+          "description": "W.SA.4,0.45°.Z2.HA.EL40 TI1001 VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 58.2,
+          "lineTotal": 58.2,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "53568100",
+          "description": "W.SA.10,0.45°.Z4.HA.L DLC VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 72.8,
+          "lineTotal": 72.8,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5371112103",
+          "description": "W.SA.12,0.45°/7°.Z3.R0,3.HB.K25 DLC VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 1,
+          "unitPrice": 86.29,
+          "lineTotal": 86.29,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 618.31
+    },
+    {
+      "invoiceNumber": "194182519",
+      "date": "2022-10-18",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "10124050",
+          "description": "VX.5,00.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 3,
+          "unitPrice": 20.19,
+          "lineTotal": 60.58,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "22040050",
+          "description": "CavTap VA.M5.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 37.08,
+          "lineTotal": 74.16,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "83612106",
+          "description": "19.GSE-ÜK.6,0/4,9.M5 SNELWISSEL INZETSTUK",
+          "quantity": 1,
+          "unitPrice": 48.75,
+          "lineTotal": 48.75,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 188.99
+    },
+    {
+      "invoiceNumber": "194184310",
+      "date": "2022-11-09",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "5357912400",
+          "description": "WR.H-SR.12,0.40°.Z3.HB.EL DLC HPC VHM RUWFREES",
+          "quantity": 1,
+          "unitPrice": 108.81,
+          "lineTotal": 108.81,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5357910400",
+          "description": "WR.H-SR.10,0.40°.Z3.HB.EL DLC HPC VHM RUWFREES",
+          "quantity": 2,
+          "unitPrice": 77.16,
+          "lineTotal": 154.32,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5361010400",
+          "description": "W.RD.10,0.f8.45°.Z2.HB.EL DLC VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 108.81,
+          "lineTotal": 108.81,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5361008400",
+          "description": "W.RD.8,0.f8.45°.Z2.HB.EL DLC VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 63.53,
+          "lineTotal": 63.53,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5361808900",
+          "description": "W.SA.8,5.45.Z3.HB.EL DLC VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 94.12,
+          "lineTotal": 188.25,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "10124060",
+          "description": "VX.6,00.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 21.89,
+          "lineTotal": 43.79,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5361812400",
+          "description": "W.SA.12,0.45.Z3.HB.EL DLC VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 122.98,
+          "lineTotal": 122.98,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "8250101000",
+          "description": "MAS-BT.AD30.WE10.50.F CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 71.17,
+          "lineTotal": 71.17,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5361006200",
+          "description": "W.RD.6,0.f8.45°.Z2.HB.L DLC VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 48.83,
+          "lineTotal": 48.83,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 915.99
+    },
+    {
+      "invoiceNumber": "194189830",
+      "date": "2023-01-25",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "5361008400",
+          "description": "W.RD.8,0.f8.45°.Z2.HB.EL DLC VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 63.53,
+          "lineTotal": 63.53,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 63.53
+    },
+    {
+      "invoiceNumber": "194190044",
+      "date": "2023-01-27",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "8250101600",
+          "description": "MAS-BT-AD30.WE16.63.F CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 2,
+          "unitPrice": 71.17,
+          "lineTotal": 142.34,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5357916200",
+          "description": "WR.H-SR.16,0.40°.Z3.HB.L DLC HPC VHM RUWFREES",
+          "quantity": 2,
+          "unitPrice": 170.11,
+          "lineTotal": 340.22,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5371116203",
+          "description": "W.SA.16,0.45°/7°.Z3.R0,3.HB.L41 DLC VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 208.75,
+          "lineTotal": 417.51,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 943.72
+    },
+    {
+      "invoiceNumber": "194191005",
+      "date": "2023-02-08",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "8250101600",
+          "description": "MAS-BT-AD30.WE16.63.F CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 78.15,
+          "lineTotal": 78.15,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "5361016200",
+          "description": "W.RD.16,0.f8.45°.Z2.HB.L DLC VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 241.14,
+          "lineTotal": 241.14,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "22040020",
+          "description": "CavTap VA.M2.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 39.27,
+          "lineTotal": 78.54,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "83612100",
+          "description": "19.GSE-ÜK.2,8/2,1.M2 SNELWISSEL INZETSTUK",
+          "quantity": 1,
+          "unitPrice": 53.52,
+          "lineTotal": 53.52,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "10168016",
+          "description": "WTL.1,60.R.5D.DIN338 HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 2.97,
+          "lineTotal": 5.94,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "84580025",
+          "description": "DIN6499-B-430E/ER25.SZ.Ø2,5 COATED PRECISIE-SPANTANG",
+          "quantity": 1,
+          "unitPrice": 27.63,
+          "lineTotal": 27.63,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "52804154",
+          "description": "N.RD.1,5.30°.Z2.HA.K7,5 DPA72S VHM MICRO-RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 50.06,
+          "lineTotal": 100.12,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 653.37
+    },
+    {
+      "invoiceNumber": "194191709",
+      "date": "2023-02-16",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22040020",
+          "description": "CavTap VA.M2.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 39.27,
+          "lineTotal": 78.54,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 84.04
+    },
+    {
+      "invoiceNumber": "194192307",
+      "date": "2023-02-24",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "8250101200",
+          "description": "MAS-BT.AD30.WE12.55.F CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 71.17,
+          "lineTotal": 71.17,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 71.17
+    },
+    {
+      "invoiceNumber": "194195387",
+      "date": "2023-04-04",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22040080",
+          "description": "CavTap VA.M8.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 1,
+          "unitPrice": 52.28,
+          "lineTotal": 52.28,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124033",
+          "description": "VX.3,30.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 13.73,
+          "lineTotal": 27.47,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124051",
+          "description": "VX.5,10.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 22.17,
+          "lineTotal": 22.17,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10124067",
+          "description": "VX.6,70.R.5D.~DIN338/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 30.5,
+          "lineTotal": 30.5,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10122091",
+          "description": "VX.9,10.R.3D.~DIN1897/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 42.99,
+          "lineTotal": 42.99,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "83612112",
+          "description": "19.GSE-ÜK.8,0/6,2.M8 SNELWISSEL INZETSTUK",
+          "quantity": 1,
+          "unitPrice": 53.52,
+          "lineTotal": 53.52,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "83612104",
+          "description": "19.GSE-ÜK.4,5/3,4.M4 SNELWISSEL INZETSTUK",
+          "quantity": 1,
+          "unitPrice": 53.52,
+          "lineTotal": 53.52,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "83528312",
+          "description": "MAS-BT-A30.GSF.M3-M12.63 SNELWISSEL TAPOPNAME",
+          "quantity": 1,
+          "unitPrice": 234.17,
+          "lineTotal": 234.17,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 522.12
+    },
+    {
+      "invoiceNumber": "194198026",
+      "date": "2023-05-11",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22040025",
+          "description": "CavTap VA.M2,5.ISO2-6H.DIN371-C TIN GS HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 37.34,
+          "lineTotal": 74.69,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10122021",
+          "description": "VX.2,10.R.3D.~DIN1897/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 9.74,
+          "lineTotal": 19.49,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "10122030",
+          "description": "VX.3,00.R.3D.~DIN1897/1835A TIN HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 10.61,
+          "lineTotal": 10.61,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "5361805200",
+          "description": "W.SA.5,0.45.Z3.HB.L DLC VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 44.23,
+          "lineTotal": 44.23,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 154.52
+    },
+    {
+      "invoiceNumber": "194199612",
+      "date": "2023-06-03",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "22361012",
+          "description": "DuoTap ST ES.NPT1/8-27.~DIN2181-C HSSE MACHINE TAPPEN DSL",
+          "quantity": 1,
+          "unitPrice": 51.46,
+          "lineTotal": 51.46,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "83612110",
+          "description": "19.GSE-ÜK.7,0/5,5.M7 SNELWISSEL INZETSTUK",
+          "quantity": 1,
+          "unitPrice": 53.52,
+          "lineTotal": 53.52,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 131.78
+    }
+  ],
+  "summary": {
+    "batchNumber": 3,
+    "batchPeriod": "Late 2022 to 2024",
+    "invoiceCount": 12,
+    "totalItems": 48,
+    "totalValue": 4458.38
+  }
+}

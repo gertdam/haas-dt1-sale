@@ -1,0 +1,508 @@
+{
+  "invoices": [
+    {
+      "invoiceNumber": "194171151",
+      "date": "2022-05-10",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0305-06000.0100.R03.R00200.HA.B580",
+          "description": "VHM RUW-FINISHFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 53.55,
+          "lineTotal": 93.18,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "N.RD.1,0.30°.Z2.HA.K2,2",
+          "description": "VHM MICRO-RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 45.17,
+          "lineTotal": 78.6,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 214.51
+    },
+    {
+      "invoiceNumber": "194172061",
+      "date": "2022-05-20",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0009-10000.0160.R04.A00200.HA.B580",
+          "description": "VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 79.77,
+          "lineTotal": 138.8,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 174.6
+    },
+    {
+      "invoiceNumber": "194172516",
+      "date": "2022-05-28",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0010-06000.0160.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 48.58,
+          "lineTotal": 84.53,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE06.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 3,
+          "unitPrice": 87.64,
+          "lineTotal": 223.48,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE08.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 79.82,
+          "lineTotal": 67.85,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE10.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 79.82,
+          "lineTotal": 67.85,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE12.55.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 2,
+          "unitPrice": 79.82,
+          "lineTotal": 135.69,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.SF.ER25.1-16.70.F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 4,
+          "unitPrice": 90.43,
+          "lineTotal": 307.46,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø4,0",
+          "description": "SPANTANG",
+          "quantity": 1,
+          "unitPrice": 21.75,
+          "lineTotal": 18.49,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø6,0",
+          "description": "SPANTANG",
+          "quantity": 1,
+          "unitPrice": 21.75,
+          "lineTotal": 18.49,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "Korting",
+          "description": "19.GSE-ÜK.3,5/2,7.M3",
+          "quantity": 1,
+          "unitPrice": 54.67,
+          "lineTotal": 46.47,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 1308.87
+    },
+    {
+      "invoiceNumber": "194173472",
+      "date": "2022-06-10",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0009-10000.0160.R04.A00200.HA.B580",
+          "description": "VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 79.77,
+          "lineTotal": 69.4,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0013-10000.0260.R03.A00400.HB.B580",
+          "description": "HPC VHM RUWFREES",
+          "quantity": 2,
+          "unitPrice": 73.9,
+          "lineTotal": 128.59,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE10.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 79.82,
+          "lineTotal": 67.85,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 578.26
+    },
+    {
+      "invoiceNumber": "194173946",
+      "date": "2022-06-16",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0010-06000.0160.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 48.58,
+          "lineTotal": 84.53,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 108.94
+    },
+    {
+      "invoiceNumber": "194174143",
+      "date": "2022-06-18",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0305-06000.0100.R03.R00200.HB.B580",
+          "description": "VHM RUW-FINISHFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 53.55,
+          "lineTotal": 93.18,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 119.4
+    },
+    {
+      "invoiceNumber": "194174956",
+      "date": "2022-06-30",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "3A0013-12000.0250.R03.A00400.HB.B580",
+          "description": "HPC VHM RUWFREES",
+          "quantity": 2,
+          "unitPrice": 73.66,
+          "lineTotal": 128.17,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VX.5,00.R.5D.~DIN338/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 24.06,
+          "lineTotal": 19.25,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VX.11,10.R.3D.~DIN1897/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 44.52,
+          "lineTotal": 35.62,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VX.8,50.R.3D.~DIN1897/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 24.62,
+          "lineTotal": 19.7,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SALOREX",
+          "description": "HSSE MACHINE TAPPEN SL",
+          "quantity": 1,
+          "unitPrice": 51.75,
+          "lineTotal": 36.22,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SALOREX",
+          "description": "HSSE MACHINE TAPPEN SL",
+          "quantity": 1,
+          "unitPrice": 75.24,
+          "lineTotal": 52.67,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø5,0",
+          "description": "SPANTANG",
+          "quantity": 2,
+          "unitPrice": 21.75,
+          "lineTotal": 36.97,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "Korting",
+          "description": "19.GSE-ÜK.6,0/4,9.M6",
+          "quantity": 1,
+          "unitPrice": 54.67,
+          "lineTotal": 46.47,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "Korting",
+          "description": "19.GSE-ÜK.10,0/8,0.M10",
+          "quantity": 1,
+          "unitPrice": 54.67,
+          "lineTotal": 46.47,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "3A0238-04000.0070.R02.R02000.HA.B580",
+          "description": "VHM RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 41.04,
+          "lineTotal": 71.41,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SL15.M6.ISO2-6H.DIN352-C",
+          "description": "HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 25.75,
+          "lineTotal": 36.05,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0238-05000.0150.R02.R02500.HA.B270",
+          "description": "VHM RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 46.43,
+          "lineTotal": 80.79,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-05000.0130.R03.R01000.HA.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 1,
+          "unitPrice": 46.55,
+          "lineTotal": 40.5,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 793.51
+    },
+    {
+      "invoiceNumber": "194177473",
+      "date": "2022-08-03",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "VX.8,50.R.5D.~DIN338/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 40.79,
+          "lineTotal": 32.63,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VX.12,50.R.3D.~DIN1897/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 56.26,
+          "lineTotal": 45.01,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VX.3,20.R.5D.~DIN338/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 1,
+          "unitPrice": 14.91,
+          "lineTotal": 11.93,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SL15.MF14X1,5.ISO2-6H.DIN374-C",
+          "description": "HSSE MACHINE TAPPEN SL",
+          "quantity": 1,
+          "unitPrice": 79.44,
+          "lineTotal": 55.61,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "Korting",
+          "description": "31.GSE-ÜK.11,0/9,0.M14",
+          "quantity": 1,
+          "unitPrice": 71.09,
+          "lineTotal": 60.43,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "MAS-BT-A30.GSF.M6-M20.96",
+          "description": "SNELWISSEL TAPOPNAME",
+          "quantity": 1,
+          "unitPrice": 304.08,
+          "lineTotal": 258.47,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "F.0238.W.1000",
+          "description": "VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 81.62,
+          "lineTotal": 71.01,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "W-HPC.3,0.Z2.55°.R.R1,5.HA.EL.8xD",
+          "description": "HPC VHM RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 102.88,
+          "lineTotal": 123.46,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-03000.0125.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 43.17,
+          "lineTotal": 75.12,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-02000.0085.R03.R00500.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 42.21,
+          "lineTotal": 73.45,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 983.27
+    },
+    {
+      "invoiceNumber": "194177623",
+      "date": "2022-08-05",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT.AD30.WE12.55.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 79.82,
+          "lineTotal": 67.85,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 82.1
+    },
+    {
+      "invoiceNumber": "194178963",
+      "date": "2022-09-01",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "VA.M3.ISO2-6H.DIN371-B",
+          "description": "HSS-PM MACHINETAP DL",
+          "quantity": 10,
+          "unitPrice": 12.09,
+          "lineTotal": 96.72,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 123.69
+    },
+    {
+      "invoiceNumber": "194179425",
+      "date": "2022-09-07",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "F.0238.W.1000",
+          "description": "VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 81.62,
+          "lineTotal": 71.01,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 85.92
+    },
+    {
+      "invoiceNumber": "194181034",
+      "date": "2022-09-29",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "W.SA.4,0.45°.Z2.HA.EL40",
+          "description": "VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 92.47,
+          "lineTotal": 55.48,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VX.3,20.R.5D.~DIN338/1835A",
+          "description": "HSSE SPIRAALBOOR",
+          "quantity": 2,
+          "unitPrice": 14.91,
+          "lineTotal": 23.86,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "W.RD.4,0.f8.45°.Z2.HA.K",
+          "description": "VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 41.04,
+          "lineTotal": 35.7,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "W.RD.10,0.f8.45°.Z2.HB.L",
+          "description": "VHM RADIUSFREES",
+          "quantity": 1,
+          "unitPrice": 81.62,
+          "lineTotal": 71.01,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "W.SA.12,0.45°/7°.Z3.R0,3.HB.K25",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 1,
+          "unitPrice": 94.55,
+          "lineTotal": 82.26,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "WR.H-SR.12,0.40°.Z3.HB.K",
+          "description": "HPC VHM RUWFREES",
+          "quantity": 1,
+          "unitPrice": 73.66,
+          "lineTotal": 64.08,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "W.SA.10,0.45°.Z4.HA.L",
+          "description": "VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 79.77,
+          "lineTotal": 69.4,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "W.EF.6,0.90°.Z4.HB.55",
+          "description": "VHM NC-SOUVEREINFREES",
+          "quantity": 2,
+          "unitPrice": 42.58,
+          "lineTotal": 74.09,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 582.47
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "machine": {
+    "make": "HAAS",
+    "model": "DT-1",
+    "serial": "1154161",
+    "buildYear": 2018,
+    "buildMonth": 8,
+    "purchaseDate": "2021-05-07",
+    "deliveryDate": "2021-10",
+    "purchasePrice": 57480,
+    "currency": "EUR",
+    "supplier": "Landré Machines B.V.",
+    "description": "High-speed drilling and tapping center",
+    "specifications": {
+      "travelX": "508 mm",
+      "travelY": "406 mm",
+      "travelZ": "394 mm",
+      "spindleSpeed": "15,000 RPM",
+      "spindlePower": "11.2 kW",
+      "toolChanger": "20+1 positions",
+      "spindleTaper": "BT-30",
+      "tableSize": "660 x 381 mm",
+      "coolantTank": "208 liters"
+    },
+    "options": [
+      {"code": "15K-30T", "description": "15,000 RPM spindle, 11.2 kW (BT-30)"},
+      {"code": "TSC", "description": "Through Spindle Coolant 20 bar"},
+      {"code": "4AXD", "description": "4th axis interface with wiring"},
+      {"code": "5AXD", "description": "5th axis interface with wiring"},
+      {"code": "WIPS-R", "description": "Renishaw Wireless Probing System (tool + workpiece)"},
+      {"code": "AUGER", "description": "Automatic chip auger"},
+      {"code": "P-COOL", "description": "Programmable coolant nozzle (34 positions)"},
+      {"code": "DWO/TCPC", "description": "Dynamic Work Offsets & Tool Center Point Control"},
+      {"code": "HSM", "description": "High Speed Machining (80 blocks/sec look-ahead)"},
+      {"code": "ACF", "description": "Fine filter for TSC (25 micron)"}
+    ],
+    "softwareOptions": [
+      "Macros", "Rotation And Scaling", "Rigid Tapping", "TCPC and DWO",
+      "M19 Spindle Orient", "High Speed Machining", "VPS Editing",
+      "Media Display", "Fourth Axis", "Fifth Axis", "Max Memory 1GB",
+      "Wireless Networking", "Compensation Tables", "Through Spindle Coolant",
+      "Max Spindle Speed 15000 RPM"
+    ],
+    "status": {
+      "powerOnHours": 1764,
+      "cycleStartTime": 502,
+      "feedCuttingTime": 337,
+      "toolChanges": 13803,
+      "powerCycles": 467,
+      "programsCompleted": 3896
+    },
+    "condition": "Excellent - Low hours for age, well maintained prototyping machine"
+  },
+  "images": [
+    {"filename": "IMG_2395.jpg", "description": "Front view - complete machine", "type": "hero"},
+    {"filename": "IMG_2396.jpg", "description": "Rear view - chip conveyor and coolant", "type": "machine"},
+    {"filename": "IMG_2397.jpg", "description": "Right side view", "type": "machine"},
+    {"filename": "IMG_2398.jpg", "description": "Left side view with Landré badge", "type": "machine"},
+    {"filename": "IMG_2399.jpg", "description": "Interior - spindle and tool changer", "type": "machine"},
+    {"filename": "IMG_2400.jpg", "description": "Work table with Lang clamping system", "type": "clamping"},
+    {"filename": "IMG_2401.jpg", "description": "BT30 toolholders with cutting tools", "type": "tooling"},
+    {"filename": "IMG_2402.jpg", "description": "BT30 toolholders - set 1", "type": "tooling"},
+    {"filename": "IMG_2403.jpg", "description": "BT30 toolholders - set 2", "type": "tooling"},
+    {"filename": "IMG_2404.jpg", "description": "Accessory drawer - collets and consumables", "type": "accessory"},
+    {"filename": "IMG_2405.jpg", "description": "Tool drawer - cutting tools organized", "type": "cutting-tool"},
+    {"filename": "IMG_2406.jpg", "description": "Tool drawer - additional cutting tools", "type": "cutting-tool"},
+    {"filename": "IMG_2407.jpg", "description": "Tool drawer - endmills and drills", "type": "cutting-tool"},
+    {"filename": "IMG_2408.jpg", "description": "Accessories - Mitutoyo gauges, fixtures", "type": "accessory"},
+    {"filename": "IMG_2409.jpg", "description": "Control screen - software options", "type": "screen"},
+    {"filename": "IMG_2411.jpg", "description": "Control screen - machine data and hours", "type": "screen"},
+    {"filename": "IMG_2412.jpg", "description": "Control screen - hardware info", "type": "screen"},
+    {"filename": "IMG_2413.jpg", "description": "Control screen - timers and counters", "type": "screen"},
+    {"filename": "IMG_2414.jpg", "description": "Machine nameplate - serial number", "type": "nameplate"}
+  ],
+  "items": [
+    {
+      "id": "TH001",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.AD30.WE06.50.F",
+      "description": "BT30 Weldon Holder 6mm",
+      "quantity": 4,
+      "unitPrice": 84.68,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH002",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.AD30.WE08.50.F",
+      "description": "BT30 Weldon Holder 8mm",
+      "quantity": 3,
+      "unitPrice": 77.12,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH003",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.AD30.WE10.50.F",
+      "description": "BT30 Weldon Holder 10mm",
+      "quantity": 4,
+      "unitPrice": 79.82,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH004",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.AD30.WE12.55.F",
+      "description": "BT30 Weldon Holder 12mm",
+      "quantity": 5,
+      "unitPrice": 79.82,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH005",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.AD30.WE16.63.F",
+      "description": "BT30 Weldon Holder 16mm",
+      "quantity": 3,
+      "unitPrice": 78.15,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH006",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.AD30.SF.ER25.1-16.70.F",
+      "description": "BT30 ER25 Collet Chuck 70mm",
+      "quantity": 7,
+      "unitPrice": 90.43,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH007",
+      "category": "toolholder",
+      "itemCode": "MAS-BT-AD30.SF.ER25.1-16.100.F",
+      "description": "BT30 ER25 Collet Chuck 100mm",
+      "quantity": 5,
+      "unitPrice": 126.37,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH008",
+      "category": "toolholder",
+      "itemCode": "DIN6499-B-430E/ER25.SZ COATED",
+      "description": "ER25 Collet Set Complete (coated)",
+      "quantity": 1,
+      "unitPrice": 348.00,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH009",
+      "category": "toolholder",
+      "itemCode": "ER25 Collets Various",
+      "description": "ER25 Collets (various sizes 2.5-12mm)",
+      "quantity": 20,
+      "unitPrice": 21.75,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH010",
+      "category": "toolholder",
+      "itemCode": "MAS-BT-30.45.M12.IK",
+      "description": "BT30 Pull Studs (retention knobs)",
+      "quantity": 20,
+      "unitPrice": 10.34,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH011",
+      "category": "toolholder",
+      "itemCode": "MAS-BT-A30.GSF.M3-M12.63",
+      "description": "Quick-Change Tap Holder M3-M12",
+      "quantity": 3,
+      "unitPrice": 234.17,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH012",
+      "category": "toolholder",
+      "itemCode": "MAS-BT-A30.GSF.M6-M20.96",
+      "description": "Quick-Change Tap Holder M6-M20",
+      "quantity": 1,
+      "unitPrice": 304.08,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH013",
+      "category": "toolholder",
+      "itemCode": "B16.BF.1-13.104",
+      "description": "Drill Chuck B16 1-13mm",
+      "quantity": 1,
+      "unitPrice": 128.50,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "TH014",
+      "category": "toolholder",
+      "itemCode": "MAS-BT.A30.BA.B16.25.V",
+      "description": "BT30 Drill Chuck Arbor B16",
+      "quantity": 1,
+      "unitPrice": 73.54,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "CL001",
+      "category": "clamping",
+      "itemCode": "231499",
+      "description": "Lang Quick-Point 52 Base Plate 4-way with mounting holes",
+      "quantity": 2,
+      "unitPrice": 1461.00,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CL002",
+      "category": "clamping",
+      "itemCode": "230965",
+      "description": "Lang Quick-Point 52 Double-sided mounting block",
+      "quantity": 1,
+      "unitPrice": 1050.00,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CL003",
+      "category": "clamping",
+      "itemCode": "231212",
+      "description": "Lang Quick-Point 52 Distance clamping bolts (set of 4)",
+      "quantity": 12,
+      "unitPrice": 68.50,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CL004",
+      "category": "clamping",
+      "itemCode": "230955",
+      "description": "Lang Quick-Point 52 Clamping bolts D16mm",
+      "quantity": 16,
+      "unitPrice": 9.50,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CL005",
+      "category": "clamping",
+      "itemCode": "291640",
+      "description": "Lang Makro-Grip 77 Vise (0-160mm range)",
+      "quantity": 2,
+      "unitPrice": 730.00,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CL006",
+      "category": "clamping",
+      "itemCode": "297384",
+      "description": "Lang Makro-Grip 77 Aluminum magnetic jaws (set)",
+      "quantity": 6,
+      "unitPrice": 54.00,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CL007",
+      "category": "clamping",
+      "itemCode": "292592",
+      "description": "Lang Makro-Grip 77 Spare jaw set",
+      "quantity": 3,
+      "unitPrice": 288.00,
+      "condition": "good",
+      "supplier": "Leering"
+    },
+    {
+      "id": "CT001",
+      "category": "cutting-tool",
+      "itemCode": "Various VHM Endmills",
+      "description": "Carbide End Mills 3-16mm (various types, DLC coated)",
+      "quantity": 50,
+      "unitPrice": 65.00,
+      "condition": "used",
+      "supplier": "Ceratizit",
+      "note": "Mix of new and used, various wear levels"
+    },
+    {
+      "id": "CT002",
+      "category": "cutting-tool",
+      "itemCode": "Various VHM Radius Mills",
+      "description": "Carbide Ball Nose / Radius Mills 0.5-10mm",
+      "quantity": 25,
+      "unitPrice": 55.00,
+      "condition": "used",
+      "supplier": "Ceratizit",
+      "note": "Mix of new and used"
+    },
+    {
+      "id": "CT003",
+      "category": "cutting-tool",
+      "itemCode": "Various HSS Drills",
+      "description": "HSS/HSSE Spiral Drills TIN coated 1.6-12.5mm",
+      "quantity": 60,
+      "unitPrice": 25.00,
+      "condition": "used",
+      "supplier": "Ceratizit",
+      "note": "Various sizes, mix of new and resharpened"
+    },
+    {
+      "id": "CT004",
+      "category": "cutting-tool",
+      "itemCode": "Various Machine Taps",
+      "description": "Machine Taps M2-M14 (HSS-PM, CavTap, Salorex)",
+      "quantity": 40,
+      "unitPrice": 45.00,
+      "condition": "used",
+      "supplier": "Ceratizit",
+      "note": "Various sizes and types"
+    },
+    {
+      "id": "CT005",
+      "category": "cutting-tool",
+      "itemCode": "Quick-change inserts",
+      "description": "Quick-change tap holder inserts M2-M14",
+      "quantity": 10,
+      "unitPrice": 53.00,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "CT006",
+      "category": "cutting-tool",
+      "itemCode": "Countersinks",
+      "description": "HSS Countersinks 90 degree 12.4-31mm",
+      "quantity": 4,
+      "unitPrice": 52.00,
+      "condition": "used",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "AC001",
+      "category": "accessory",
+      "itemCode": "MAS BT 30",
+      "description": "BT30 Mounting Block",
+      "quantity": 1,
+      "unitPrice": 132.70,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "AC002",
+      "category": "accessory",
+      "itemCode": "6070430.ER25",
+      "description": "ER25 Y-Wrench",
+      "quantity": 1,
+      "unitPrice": 18.25,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "AC003",
+      "category": "accessory",
+      "itemCode": "SM-ER25D",
+      "description": "ER25 Sealing Ring Nut",
+      "quantity": 1,
+      "unitPrice": 35.76,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    },
+    {
+      "id": "AC004",
+      "category": "accessory",
+      "itemCode": "DS.430E/ER25",
+      "description": "ER25 Sealing Rings (various)",
+      "quantity": 5,
+      "unitPrice": 15.43,
+      "condition": "good",
+      "supplier": "Ceratizit"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "landre-order-216198.pdf",
+      "originalName": "#19 imbu-b-opdra-haas-dt-1 (1).pdf",
+      "type": "order",
+      "supplier": "Landré",
+      "date": "2021-05-07",
+      "reference": "216198",
+      "totalValue": 57480.00
+    },
+    {
+      "filename": "ceratizit-invoices",
+      "type": "invoices",
+      "supplier": "Ceratizit",
+      "dateRange": "2021-12 to 2024-09",
+      "invoiceCount": 45,
+      "totalValue": 15751.00
+    },
+    {
+      "filename": "leering-invoices",
+      "type": "invoices",
+      "supplier": "Leering",
+      "dateRange": "2021-08 to 2022-10",
+      "invoiceCount": 9,
+      "totalValue": 9012.00
+    }
+  ],
+  "summary": {
+    "machineValue": 57480,
+    "toolholdersValue": 4500,
+    "clampingValue": 9012,
+    "cuttingToolsValue": 8500,
+    "accessoriesValue": 750,
+    "totalInvestment": 80242,
+    "currency": "EUR",
+    "itemCount": 30,
+    "toolholderCount": 14,
+    "cuttingToolCount": 6,
+    "clampingCount": 7,
+    "accessoryCount": 4
+  },
+  "contact": {
+    "company": "IMBU BV",
+    "name": "Gert Dam",
+    "email": "gdam@imbu.nl",
+    "role": "Managing Director"
+  },
+  "metadata": {
+    "generatedDate": "2024-12-03",
+    "projectName": "HAAS DT-1 Sale",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "invoices": [
+    {
+      "invoiceNumber": "666921",
+      "date": "2021-08-24",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "231499",
+          "description": "Quick-Point 52 4-voudig met bev.boringen",
+          "quantity": 1.0,
+          "unitPrice": 1418.0,
+          "lineTotal": 1347.1,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "230974",
+          "description": "Quick-Point 52 (set á 4 st.) 45052-30 Beschermprop 16mm staal",
+          "quantity": 3.0,
+          "unitPrice": 16.0,
+          "lineTotal": 45.6,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "231523",
+          "description": "Quick-Point 45000-30 Beschermprop-verwijderaar",
+          "quantity": 1.0,
+          "unitPrice": 19.0,
+          "lineTotal": 18.05,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 1729.15
+    },
+    {
+      "invoiceNumber": "671464",
+      "date": "2022-01-24",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "231212",
+          "description": "Quick-Point 52 set á 4 stuks 45270-10 Afstands-spanbout",
+          "quantity": 5.0,
+          "unitPrice": 67.0,
+          "lineTotal": 318.25,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 395.12
+    },
+    {
+      "invoiceNumber": "672473",
+      "date": "2022-02-22",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "231212",
+          "description": "Quick-Point 52 set á 4 stuks 45270-10 Afstands-spanbout",
+          "quantity": 7.0,
+          "unitPrice": 70.0,
+          "lineTotal": 465.5,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 573.3
+    },
+    {
+      "invoiceNumber": "672768",
+      "date": "2022-03-02",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "291640",
+          "description": "Makro-Grip spanner 77 48160-77 Spanbereik 0-160mm",
+          "quantity": 1.0,
+          "unitPrice": 730.0,
+          "lineTotal": 693.5,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "297384",
+          "description": "Makro-Grip Magneetbekken 77 Alu 48419-77 uitwendig (set)",
+          "quantity": 2.0,
+          "unitPrice": 54.0,
+          "lineTotal": 102.6,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 973.33
+    },
+    {
+      "invoiceNumber": "674077",
+      "date": "2022-04-12",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "231499",
+          "description": "Quick-Point 52 4-voudig met bev.boringen",
+          "quantity": 1.0,
+          "unitPrice": 1504.0,
+          "lineTotal": 1428.8,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "230974",
+          "description": "Quick-Point 52 (set á 4 st.) 45052-30 Beschermprop 16mm staal",
+          "quantity": 3.0,
+          "unitPrice": 16.5,
+          "lineTotal": 47.03,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "231523",
+          "description": "Quick-Point 45000-30 Beschermprop-verwijderaar",
+          "quantity": 1.0,
+          "unitPrice": 20.0,
+          "lineTotal": 19.0,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "291640",
+          "description": "Makro-Grip spanner 77 48160-77 Spanbereik 0-160mm",
+          "quantity": 1.0,
+          "unitPrice": 730.0,
+          "lineTotal": 693.5,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 2671.12
+    },
+    {
+      "invoiceNumber": "674682",
+      "date": "2022-05-03",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "230965",
+          "description": "Quick-Point 52 47220 Dubbelzijdig opnameblok",
+          "quantity": 1.0,
+          "unitPrice": 1050.0,
+          "lineTotal": 997.5,
+          "category": "clamping"
+        },
+        {
+          "itemCode": "230955",
+          "description": "Quick-Point 52 45270 Spanbout (D 16mm)",
+          "quantity": 16.0,
+          "unitPrice": 9.5,
+          "lineTotal": 144.4,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 1392.47
+    },
+    {
+      "invoiceNumber": "675914",
+      "date": "2022-06-10",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "297384",
+          "description": "Makro-Grip Magneetbekken 77 Alu 48419-77 uitwendig (set)",
+          "quantity": 4.0,
+          "unitPrice": 54.0,
+          "lineTotal": 205.2,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 260.27
+    },
+    {
+      "invoiceNumber": "676211",
+      "date": "2022-06-21",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "292592",
+          "description": "Makro-Grip spanner 77 48077-7720 Reservebekken set",
+          "quantity": 1.0,
+          "unitPrice": 288.0,
+          "lineTotal": 273.6,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 343.04
+    },
+    {
+      "invoiceNumber": "679501",
+      "date": "2022-10-11",
+      "supplier": "Leering",
+      "items": [
+        {
+          "itemCode": "292592",
+          "description": "Makro-Grip spanner 77 48077-7720 Reservebekken set",
+          "quantity": 2.0,
+          "unitPrice": 288.0,
+          "lineTotal": 547.2,
+          "category": "clamping"
+        }
+      ],
+      "invoiceTotal": 674.09
+    }
+  ]
+}

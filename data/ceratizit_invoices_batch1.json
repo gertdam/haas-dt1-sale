@@ -1,0 +1,496 @@
+{
+  "invoices": [
+    {
+      "invoiceNumber": "194160411",
+      "date": "2021-12-24",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "80 722 046",
+          "description": "MAS BT 30",
+          "quantity": 1,
+          "unitPrice": -132.7,
+          "lineTotal": -132.7,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": -132.7,
+      "filename": "ceratizit Creditnota - 194160411 - Imbu BV - 20211225 - 0410.PDF"
+    },
+    {
+      "invoiceNumber": "194161235",
+      "date": "2022-01-10",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT.AD30.WE06.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 84.68,
+          "lineTotal": 71.98,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE10.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 77.12,
+          "lineTotal": 65.55,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE12.55.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 77.12,
+          "lineTotal": 65.55,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "B16.BF.1-13.104",
+          "description": "BOORKOP",
+          "quantity": 1,
+          "unitPrice": 128.5,
+          "lineTotal": 109.22,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.SF.ER25.1-16.70.F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 1,
+          "unitPrice": 87.37,
+          "lineTotal": 74.26,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ COATED",
+          "description": "SPANTANG, SET",
+          "quantity": 1,
+          "unitPrice": 348.0,
+          "lineTotal": 295.8,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "SM-ER25D",
+          "description": "MOER VOOR AFDICHTRINGEN",
+          "quantity": 1,
+          "unitPrice": 35.76,
+          "lineTotal": 30.4,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DS.430E/ER25.Ø4,0",
+          "description": "AFDICHTRING",
+          "quantity": 1,
+          "unitPrice": 15.43,
+          "lineTotal": 13.12,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "MAS-BT-30.45°.M12.IK",
+          "description": "AANTREKBOUT",
+          "quantity": 20,
+          "unitPrice": 10.34,
+          "lineTotal": 175.78,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "1A0118-03500.h7.3XD.118.R02.HA.B270",
+          "description": "SCWX430",
+          "quantity": 5,
+          "unitPrice": 9.79,
+          "lineTotal": 34.26,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "PCR-UNI.H-SA.5,7.36°.Z4.HB.K APA72S",
+          "description": "HPC VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 46.4,
+          "lineTotal": 80.74,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "MAS-BT.AD30.WE08.50.F",
+          "description": "CILINDERSCHACHT-OPNAME WELDON",
+          "quantity": 1,
+          "unitPrice": 77.12,
+          "lineTotal": 65.55,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "MAS-BT.A30.BA.B16.25.V",
+          "description": "BOORKOPOPNAME",
+          "quantity": 1,
+          "unitPrice": 73.54,
+          "lineTotal": 62.51,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "MAS BT 30",
+          "description": "MONTAGEBLOK",
+          "quantity": 1,
+          "unitPrice": 132.7,
+          "lineTotal": 126.06,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "6070430.ER25.1,5-16",
+          "description": "Y-SPANSLEUTEL",
+          "quantity": 1,
+          "unitPrice": 18.25,
+          "lineTotal": 15.51,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 1286.29,
+      "filename": "ceratezit Factuur - 194161235 - Imbu BV - 20220111 - 055749.PDF"
+    },
+    {
+      "invoiceNumber": "194164709",
+      "date": "2022-02-18",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "VA.M3.ISO2-6H.DIN371-B NT",
+          "description": "HSS-PM MACHINETAP DL",
+          "quantity": 5,
+          "unitPrice": 11.68,
+          "lineTotal": 46.72,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "VA.M4.ISO2-6H.DIN371-B NT",
+          "description": "HSS-PM MACHINETAP DL",
+          "quantity": 5,
+          "unitPrice": 11.79,
+          "lineTotal": 47.16,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 93.88,
+      "filename": "ceratizit Factuur - 194164709 - Imbu BV - 20220219 - 053809.PDF"
+    },
+    {
+      "invoiceNumber": "194165169",
+      "date": "2022-02-24",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT-ADB40-ER25-120-F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 2,
+          "unitPrice": 67.17,
+          "lineTotal": 114.19,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": 114.19,
+      "filename": "ceratizit Factuur - 194165169 - Imbu BV - 20220225 - 051435.PDF"
+    },
+    {
+      "invoiceNumber": "194165428",
+      "date": "2022-02-28",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT-AD30.SF.ER25.1-16.100.F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 2,
+          "unitPrice": 122.1,
+          "lineTotal": 207.57,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": 207.57,
+      "filename": "ceratizit Factuur - 194165428 - Imbu BV - 20220301 - 070205.PDF"
+    },
+    {
+      "invoiceNumber": "194165749",
+      "date": "2022-03-02",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø6,0 COATED",
+          "description": "SPANTANG",
+          "quantity": 4,
+          "unitPrice": 21.75,
+          "lineTotal": 73.95,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø8,0 COATED",
+          "description": "SPANTANG",
+          "quantity": 4,
+          "unitPrice": 21.75,
+          "lineTotal": 73.95,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø10,0 COATED",
+          "description": "SPANTANG",
+          "quantity": 2,
+          "unitPrice": 21.75,
+          "lineTotal": 36.97,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "DIN6499-B-430E/ER25.SZ.Ø12,0 COATED",
+          "description": "SPANTANG",
+          "quantity": 2,
+          "unitPrice": 21.75,
+          "lineTotal": 36.97,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": 221.84,
+      "filename": "creatizit Factuur - 194165749 - Imbu BV - 20220303 - 050100.PDF"
+    },
+    {
+      "invoiceNumber": "194167812",
+      "date": "2022-03-28",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT-AD30.SF.ER25.1-16.100.F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 2,
+          "unitPrice": 126.37,
+          "lineTotal": 214.83,
+          "category": "toolholder"
+        },
+        {
+          "itemCode": "10 171 070",
+          "description": "UNI.7,00.R.5D.DIN338 TIN",
+          "quantity": 10,
+          "unitPrice": 6.6,
+          "lineTotal": 66.0,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "10 171 115",
+          "description": "UNI.11,50.R.5D.DIN338 TIN",
+          "quantity": 5,
+          "unitPrice": 14.15,
+          "lineTotal": 70.75,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "N-VA.H-SA.6,0.35°.Z4.HB.K TI1000",
+          "description": "HPC VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 18.56,
+          "lineTotal": 33.41,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "N-VA.H-SA.8,0.35°.Z4.HB.K TI1000",
+          "description": "HPC VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 26.24,
+          "lineTotal": 47.23,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "N-VA.H-SA.10,0.35°.Z4.HB.K TI1000",
+          "description": "HPC VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 34.02,
+          "lineTotal": 61.24,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "N-VA.H-SA.12,0.35°.Z4.HB.K TI1000",
+          "description": "HPC VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 48.87,
+          "lineTotal": 87.97,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-06000.0130.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 33.37,
+          "lineTotal": 66.74,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-08000.0170.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 36.69,
+          "lineTotal": 73.38,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-10000.0210.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 53.2,
+          "lineTotal": 106.4,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0010-12000.0250.R03.R00300.HB.B580",
+          "description": "VHM SCHACHTFREES MET HOEKRADIUS",
+          "quantity": 2,
+          "unitPrice": 75.32,
+          "lineTotal": 150.64,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SE.N.12,40.90°.C.DIN335 Ti50",
+          "description": "HSS SOUVEREINBOOR",
+          "quantity": 2,
+          "unitPrice": 33.89,
+          "lineTotal": 54.22,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SE.N.31,00.90°.C.DIN335 Ti50",
+          "description": "HSS SOUVEREINBOOR",
+          "quantity": 2,
+          "unitPrice": 71.97,
+          "lineTotal": 115.15,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 1147.96,
+      "filename": "ceratizit Factuur - 194167812 - Imbu BV - 20220329 - 051742.PDF"
+    },
+    {
+      "invoiceNumber": "194167813",
+      "date": "2022-03-28",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT-AD30.SF.ER25.1-16.100.F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 1,
+          "unitPrice": 126.37,
+          "lineTotal": 107.41,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": 107.41,
+      "filename": "ceratizit Factuur - 194167813 - Imbu BV - 20220329 - 051745.PDF"
+    },
+    {
+      "invoiceNumber": "194168424",
+      "date": "2022-04-01",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "52 159 030",
+          "description": "N.EF.3,0.0°.Z4.HA TI1000",
+          "quantity": 1,
+          "unitPrice": 52.76,
+          "lineTotal": 52.76,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "52 159 050 / 52159",
+          "description": "N.EF.5,0.0°.Z4.HA TI1000",
+          "quantity": 1,
+          "unitPrice": 54.76,
+          "lineTotal": 54.76,
+          "category": "accessory"
+        }
+      ],
+      "invoiceTotal": 107.52,
+      "filename": "ceratizit Factuur - 194168424 - Imbu BV - 20220402 - 072322.PDF"
+    },
+    {
+      "invoiceNumber": "194170315",
+      "date": "2022-04-28",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT.AD30.SF.ER25.1-16.70.F",
+          "description": "SPANTANGOPNAME VORM ER",
+          "quantity": 2,
+          "unitPrice": 87.37,
+          "lineTotal": 148.53,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": 148.53,
+      "filename": "ceratizit Factuur - 194170315 - Imbu BV - 20220429 - 045823.PDF"
+    },
+    {
+      "invoiceNumber": "194170316",
+      "date": "2022-04-28",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "10 122 555",
+          "description": "VX.5,55.R.3D.~DIN1897/1835A TIN",
+          "quantity": 1,
+          "unitPrice": 11.97,
+          "lineTotal": 11.97,
+          "category": "accessory"
+        },
+        {
+          "itemCode": "N.RD.1,0.30°.Z2.HA.K10 DPA72S",
+          "description": "VHM MICRO-RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 48.51,
+          "lineTotal": 84.41,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0242-04000.0040.R02.A00100.HA.B400",
+          "description": "VHM SCHACHTFREES",
+          "quantity": 2,
+          "unitPrice": 92.47,
+          "lineTotal": 110.96,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "F.0238.P.0600",
+          "description": "VHM RADIUSFREES",
+          "quantity": 2,
+          "unitPrice": 46.0,
+          "lineTotal": 80.04,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "SALOREX UNI.UNF1/4-28.2B+0,05.-E VAP",
+          "description": "HSSE MACHINE TAPPEN SL",
+          "quantity": 2,
+          "unitPrice": 75.93,
+          "lineTotal": 106.3,
+          "category": "cutting-tool"
+        },
+        {
+          "itemCode": "3A0009-10000.0160.R04.A00200.HA.B580",
+          "description": "VHM SCHACHTFREES",
+          "quantity": 1,
+          "unitPrice": 79.77,
+          "lineTotal": 69.4,
+          "category": "cutting-tool"
+        }
+      ],
+      "invoiceTotal": 463.08,
+      "filename": "ceratizit Factuur - 194170316 - Imbu BV - 20220429 - 045825.PDF"
+    },
+    {
+      "invoiceNumber": "194170633",
+      "date": "2022-05-02",
+      "supplier": "Ceratizit",
+      "items": [
+        {
+          "itemCode": "MAS-BT-A30.GSF.M3-M12.63",
+          "description": "SNELWISSEL TAPOPNAME",
+          "quantity": 1,
+          "unitPrice": 201.8,
+          "lineTotal": 201.8,
+          "category": "toolholder"
+        }
+      ],
+      "invoiceTotal": 201.8,
+      "filename": "ceratizit Factuur - 194170633 - Imbu BV - 20220503 - 061932.PDF"
+    }
+  ]
+}
