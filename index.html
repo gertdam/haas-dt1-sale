@@ -24,6 +24,10 @@
             box-sizing: border-box;
         }
 
+        html {
+            scroll-behavior: smooth;
+        }
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
             background: var(--bg-primary);
@@ -169,6 +173,34 @@
         .stat-card .label {
             color: var(--text-secondary);
             font-size: 0.9rem;
+        }
+
+        .service-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: var(--success);
+            color: white;
+            padding: 16px 28px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-top: 20px;
+            transition: all 0.3s;
+            box-shadow: 0 4px 12px rgba(52, 168, 83, 0.3);
+        }
+
+        .service-badge:hover {
+            background: #2d8e47;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(52, 168, 83, 0.4);
+        }
+
+        .service-badge svg {
+            width: 24px;
+            height: 24px;
+            flex-shrink: 0;
         }
 
         .highlight {
@@ -851,6 +883,14 @@
                             <div class="label">Tool Positions</div>
                         </div>
                     </div>
+
+                    <a href="#documents" class="service-badge" onclick="document.querySelectorAll('.doc-category-btn')[0].click();">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                            <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                        <span>Freshly Serviced - December 2025 | View Service Reports</span>
+                    </a>
                 </div>
             </div>
         </div>
@@ -1237,7 +1277,7 @@
     </section>
 
     <!-- Document Browser -->
-    <section class="documents-section">
+    <section id="documents" class="documents-section">
         <div class="container">
             <h2 class="section-title">Documentation</h2>
             <p style="text-align: center; color: var(--text-secondary); margin-bottom: 30px;">
