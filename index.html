@@ -209,6 +209,17 @@
             padding: 20px;
             border-radius: 0 10px 10px 0;
             margin-bottom: 20px;
+            text-decoration: none;
+            color: var(--text-primary);
+            display: block;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .highlight:hover {
+            background: rgba(36, 41, 55, 0.8);
+            border-left-width: 6px;
+            transform: translateX(4px);
         }
 
         .highlight .title {
@@ -860,10 +871,10 @@
                     <h1>HAAS DT-1</h1>
                     <p class="subtitle">High-Speed Drilling & Tapping Center with Toolholders & Lang Workholding System</p>
 
-                    <div class="highlight">
+                    <a href="#history" class="highlight">
                         <div class="title">Ex-Demo Machine - Exceptionally Low Hours</div>
                         <div>Former Landre showroom demo | Only 502 cycle hours | Prototyping use only | Freshly serviced Dec 2025</div>
-                    </div>
+                    </a>
 
                     <div class="key-stats">
                         <div class="stat-card">
@@ -897,7 +908,7 @@
     </section>
 
     <!-- Machine History -->
-    <section class="history-section">
+    <section id="history" class="history-section">
         <div class="container">
             <h2 class="section-title">Machine History</h2>
             <div class="history-content">
