@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HAAS DT-1 For Sale | IMBU BV</title>
+    <title>HAAS DT-1 — SOLD | IMBU BV</title>
     <style>
         :root {
             --bg-primary: #0f1419;
@@ -14,8 +14,124 @@
             --accent: #4a9eff;
             --accent-hover: #6db3ff;
             --success: #34a853;
+            --sold: #d93025;
+            --sold-dark: #a52714;
             --border: #3c4043;
             --shadow: rgba(0,0,0,0.3);
+        }
+
+        /* Sold announcement bar */
+        .sold-banner {
+            background: linear-gradient(90deg, var(--sold-dark) 0%, var(--sold) 50%, var(--sold-dark) 100%);
+            color: #fff;
+            text-align: center;
+            padding: 11px 20px;
+            font-weight: 600;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            font-size: 0.82rem;
+            border-bottom: 1px solid rgba(0,0,0,0.4);
+            position: relative;
+            z-index: 101;
+        }
+
+        .sold-banner .dot {
+            display: inline-block;
+            width: 5px;
+            height: 5px;
+            background: rgba(255,255,255,0.65);
+            border-radius: 50%;
+            margin: 0 14px;
+            vertical-align: middle;
+        }
+
+        /* Header SOLD pill */
+        .sold-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--sold);
+            color: #fff;
+            padding: 9px 20px;
+            border-radius: 6px;
+            font-weight: 700;
+            letter-spacing: 0.22em;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border: 1px solid rgba(255,255,255,0.12);
+            box-shadow: 0 4px 14px rgba(217, 48, 37, 0.35);
+        }
+
+        .sold-pill::before {
+            content: '';
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #fff;
+            box-shadow: 0 0 0 3px rgba(255,255,255,0.25);
+        }
+
+        /* Diagonal ribbon on hero image */
+        .sold-ribbon-wrap {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 170px;
+            height: 170px;
+            overflow: hidden;
+            pointer-events: none;
+            z-index: 3;
+        }
+
+        .sold-ribbon {
+            position: absolute;
+            top: 32px;
+            right: -54px;
+            width: 240px;
+            transform: rotate(45deg);
+            background: linear-gradient(180deg, var(--sold) 0%, var(--sold-dark) 100%);
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            font-weight: 800;
+            letter-spacing: 0.4em;
+            font-size: 1.15rem;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.55);
+            border-top: 1px solid rgba(255,255,255,0.28);
+            border-bottom: 1px solid rgba(0,0,0,0.35);
+            text-indent: 0.4em;
+        }
+
+        /* Hero sold notice */
+        .sold-notice {
+            background: linear-gradient(135deg, rgba(217, 48, 37, 0.12) 0%, rgba(165, 39, 20, 0.08) 100%);
+            border: 1px solid rgba(217, 48, 37, 0.35);
+            border-left: 4px solid var(--sold);
+            padding: 20px 24px;
+            border-radius: 0 10px 10px 0;
+            margin-bottom: 24px;
+        }
+
+        .sold-notice .sold-tag {
+            display: inline-block;
+            color: var(--sold);
+            font-weight: 700;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            font-size: 0.78rem;
+            margin-bottom: 6px;
+        }
+
+        .sold-notice .sold-headline {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 4px;
+        }
+
+        .sold-notice .sold-sub {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
         }
 
         * {
@@ -844,11 +960,16 @@
     </style>
 </head>
 <body>
+    <!-- Sold Announcement -->
+    <div class="sold-banner">
+        This machine has been sold<span class="dot"></span>Thank you to everyone who reached out
+    </div>
+
     <!-- Header -->
     <header>
         <div class="container header-content">
             <div class="logo">IMBU BV</div>
-            <a href="mailto:gdam@imbu.nl" class="contact-btn">Contact Us</a>
+            <span class="sold-pill">Sold</span>
         </div>
     </header>
 
@@ -858,6 +979,9 @@
             <div class="hero-grid">
                 <div class="hero-image" onclick="openLightbox(0)">
                     <img src="assets/images/IMG_2395.jpg" alt="HAAS DT-1 CNC Machine">
+                    <div class="sold-ribbon-wrap">
+                        <div class="sold-ribbon">SOLD</div>
+                    </div>
                     <div class="hero-image-overlay">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                             <circle cx="11" cy="11" r="8"></circle>
@@ -870,6 +994,12 @@
                 <div class="hero-content">
                     <h1>HAAS DT-1</h1>
                     <p class="subtitle">High-Speed Drilling & Tapping Center with Toolholders & Lang Workholding System</p>
+
+                    <div class="sold-notice">
+                        <div class="sold-tag">Sold · April 2026</div>
+                        <div class="sold-headline">This machine has found a new home.</div>
+                        <div class="sold-sub">The listing remains available below as a reference record of the machine, its history, and included equipment.</div>
+                    </div>
 
                     <a href="#history" class="highlight">
                         <div class="title">Ex-Demo Machine - Exceptionally Low Hours</div>
@@ -2178,8 +2308,8 @@
     <section class="contact-section">
         <div class="container">
             <div class="contact-card">
-                <h2>Interested?</h2>
-                <p class="subtitle">Contact us to schedule a viewing or request more information</p>
+                <h2>Thank You</h2>
+                <p class="subtitle">This HAAS DT-1 has been sold. We appreciate the interest from everyone who reached out — for future enquiries about IMBU BV, feel free to get in touch.</p>
                 <div class="contact-info">
                     <a href="mailto:gdam@imbu.nl">gdam@imbu.nl</a>
                     <span class="contact-name">Gert Dam - IMBU BV</span>
